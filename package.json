@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s0je3v",
-  "description": "https://scrimba.com/frontend-path-c0j/~0op",
+  "name": "personal-dashboard",
+  "description": "A personal dashboard ",
   "scripts": {
     "start": "vite",
     "dev": "vite",
